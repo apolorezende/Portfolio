@@ -7,54 +7,45 @@ const meta = {
 const introdata = {
     title: "I’m Apolo Rezende",
     animated: {
-        first: "I love coding",
+        first: "Coding is my true love.",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "here you can find a little bit about me",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Welcome to my portfolio! Here, you will find programming projects that will inspire and challenge you. Let's explore the world of code together!",
     your_img_url: "https://cdn.discordapp.com/attachments/841512566924509184/1119307176440238151/image0.jpg",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Hello! My name is Apolo Henrique, and I am a passionate Fullstack web developer with a strong interest in technology and innovation. I am currently seeking employment opportunities in the field of Fullstack web development, where I can apply my skills in technologies such as React, Node.js, JavaScript, HTML, and CSS. I have completed the Web Development course at Trybe, where I learned to develop comprehensive solutions for real-world problems and work effectively in teams. I am always eager to take on new challenges and love learning new things. If you are looking for a dedicated and proactive developer with strong Softskill abilities and a strong desire to work, please feel free to contact me.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Freelancer",
+        where: "Solo carrer",
+        date: "2021 - 2023",
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
+const skills = [
     {
-        name: "Djano",
-        value: 85,
+        name: "React",
+        value: 100,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 90,
     },
     {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
+        name: "Node.js",
         value: 85,
+    },
+    {
+        name: "MongoDB",
+        value: 70,
+    },
+    {
+        name: "Python",
+        value: 50,
     },
 ];
 
@@ -63,11 +54,7 @@ const services = [{
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
+        title: "Desenvoloper Fullstack Website",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -138,7 +125,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "apolo_henriquerr@hotmail.com",
     YOUR_FONE: "+55 (12)99634-0314",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Let's Connect! Reach out to me and let's discuss your exciting projects, ideas, or any collaboration opportunities. I'm eager to hear from you and explore how we can bring your insights to life through the power of programming. Don't hesitate to get in touch!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
